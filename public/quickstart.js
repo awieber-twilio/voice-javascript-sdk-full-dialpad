@@ -217,15 +217,6 @@
     callStarted = false;
   }
 
-  // function updateUIMutedCall(call) {
-  //   log("Muted ...");
-  //   if (call.isMuted()) {
-  //     muteButton.textContext="Unmute";
-  //   }
-  //   else {
-  //     muteButton.textContext="Mute";
-  //   }
-  // }
 
   // HANDLE INCOMING CALL
 
